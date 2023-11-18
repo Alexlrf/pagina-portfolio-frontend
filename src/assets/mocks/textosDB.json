@@ -1,0 +1,23 @@
+[
+  {
+    "categoria": "citacao",
+    "titulo": "Teste Citação",
+    "resumoTexto": "",
+    "texto": "\"Faça o teu melhor nas condições que você tem, enquanto não tem condições para fazer melhor ainda\".",
+    "autor": "Mario Sergio Cortella"
+  },
+  {
+    "categoria": "apresentacaoPessoal",
+    "titulo": "Sou Assim",
+    "resumoTexto": "",
+    "texto": "Mussum Ipsum, cacilds vidis litro abertis.  Quem num gosta di mé, boa gentis num é. Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum. Suco de cevadiss deixa as pessoas mais interessantis. Delegadis gente finis, bibendum egestas augue arcu ut est. Detraxit consequat et quo num tendi nada. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Quem num gosta di mim que vai caçá sua turmis! Paisis, filhis, espiritis santis. Quem manda na minha terra sou euzis! Nulla id gravida magna, ut semper sapien. Aenean aliquam molestie leo, vitae iaculis nisl. Interagi no mé, cursus quis, vehicula ac nisi.",
+    "autor": "Alex Fogazzi"
+  },
+  {
+    "categoria": "historicoProfissional",
+    "titulo": "Trabalhei com isso",
+    "resumoTexto": "",
+    "texto": "Trabalhei com isso  e fiz isso e aquilo, também fiz outras coisas",
+    "autor": "Alex Fogazzi"
+  }
+]

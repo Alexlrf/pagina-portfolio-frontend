@@ -1,0 +1,10 @@
+*{
+  color: white;
+}
+
+#img_perfil{
+  width: 300px;
+  height: 390px;
+  border-radius: 10px;
+  /* box-shadow: 3px 3px rgb(153, 142, 142), -3px -3px rgb(153, 142, 142); */
+}

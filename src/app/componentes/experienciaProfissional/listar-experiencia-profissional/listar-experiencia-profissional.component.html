@@ -1,0 +1,13 @@
+<div
+  class="card"
+  style="width: 18rem"
+  *ngFor="let exp of experienciasProfissionais"
+>
+  <div class="card-body">
+    <h5 class="card-title">{{ exp.cargo }}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">
+      {{ exp.empresa }} - {{ exp.dataInicio }} até {{ exp.dataSaida }}
+    </h6>
+    <p class="card-text">{{ exp.descricaoAtividades }}</p>
+  </div>
+</div>

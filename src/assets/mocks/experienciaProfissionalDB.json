@@ -1,0 +1,30 @@
+[
+  {
+    "cargo": "Estágio - Desenvolvedor Java",
+    "empresa": "TZion Robotização Imobiliária",
+    "descricaoAtividades": "Desenvolvimento Java para automação de serviços do ramo imobiliário. Desenvolvimento ágil baseado em Scrum e Kanban.",
+    "dataInicio": "2021, 02, 01",
+    "dataSaida": "2021, 08, 01"
+  },
+  {
+    "cargo": "Desenvolvedor Java",
+    "empresa": "MJV Technology & Innovation",
+    "descricaoAtividades": "Desenvolvimento Ágil Scrum; Criação de Microsserviços e api's Rest com Java Spring e Quarkus; Uso da ORM Hibernate para conexão Java e PostgreSQL.",
+    "dataInicio": "2021, 08, 01",
+    "dataSaida": "2022, 05, 01"
+  },
+  {
+    "cargo": "Desenvolvedor Java",
+    "empresa": "Bsoft by nstech",
+    "descricaoAtividades": "Desenvolvimento Java para automação de serviços do ramo imobiliário. Desenvolvimento ágil baseado em Scrum e Kanban.",
+    "dataInicio": "2022, 06, 01",
+    "dataSaida": "2023, 06, 01"
+  },
+  {
+    "cargo": "Analista Desenvolvedor",
+    "empresa": "AMcom",
+    "descricaoAtividades": "Desenvolvimento Java para automação de serviços do ramo imobiliário. Desenvolvimento ágil baseado em Scrum e Kanban.",
+    "dataInicio": "2023, 07, 01",
+    "dataSaida": ""
+  }
+]
